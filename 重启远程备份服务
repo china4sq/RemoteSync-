@@ -1,0 +1,3 @@
+你先把source.py和backup.py都停了，然后在备份侧输入pyhton backup.py /xxx/xxx/xx/备份存储目录／
+
+然后在源数据侧运行pyhton source.py /xxx/xxx/xx/源数据目录/备份侧ip  崩溃当天日期yyyymmdd
